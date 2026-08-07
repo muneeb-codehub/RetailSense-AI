@@ -1,0 +1,60 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ML Models (large files)
+models/*.pkl
+models/*.joblib
+
+# Data (large files)
+data/train.csv
+data/test.csv
+data/transactions.csv
+
+# Keep screenshots
+!data/*.jpg
+!data/*.png
+
+# MLflow
+mlruns/
+mlruns.db
+mlflow.db
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.cache/
+
+# Environment
+.env
+*.env
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+logs/
+
+# Generated feature files (large)
+data/features/*.csv
+data/features/*.png

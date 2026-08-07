@@ -10,13 +10,6 @@
 [![MLflow](https://img.shields.io/badge/MLflow-3.11-orange)](https://mlflow.org)
 [![EC2](https://img.shields.io/badge/AWS-EC2-FF9900)](http://16.171.161.243:3000)
 
-### Live Links
-
-| Deployment | Frontend | Backend API | MLflow UI |
-|------------|----------|-------------|-----------|
-| **Docker Compose** | [http://16.171.161.243:3000](http://16.171.161.243:3000) | [http://16.171.161.243:8000/docs](http://16.171.161.243:8000/docs) | [http://16.171.161.243:5001](http://16.171.161.243:5001) |
-| **Kubernetes** | [http://16.171.161.243:30300](http://16.171.161.243:30300) | [http://16.171.161.243:30800/docs](http://16.171.161.243:30800/docs) | [http://16.171.161.243:30500](http://16.171.161.243:30500) |
-
 ---
 
 ## Problem Statement

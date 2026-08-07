@@ -333,7 +333,7 @@ kubectl port-forward -n retailsense service/mlflow-service 30500:5000 --address 
 
 ## 📄 License
 
-© 2025 Muneeb Arif. All rights reserved.
+© 2026 Muneeb Arif. All rights reserved.
 
 ---
 

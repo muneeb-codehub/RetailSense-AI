@@ -317,8 +317,6 @@ kubectl port-forward -n retailsense service/mlflow-service 30500:5000 --address 
 | POST | `/ab-test` | Paired t-test: LightGBM vs XGBoost |
 | GET | `/drift` | KS-test drift detection |
 
-Full interactive docs: [http://16.171.161.243:8000/docs](http://16.171.161.243:8000/docs)
-
 ---
 
 ## Dataset
@@ -327,3 +325,16 @@ Full interactive docs: [http://16.171.161.243:8000/docs](http://16.171.161.243:8
 
 - 54 stores · 33 product families · 4+ years of daily sales
 - Supplementary: oil prices, national holidays, store metadata, transactions
+
+## 📧 Contact
+
+- **Email:** muneebarif226@gmail.com
+- **GitHub:** [github.com/muneeb-codehub](https://github.com/muneeb-codehub)
+
+## 📄 License
+
+© 2025 Muneeb Arif. All rights reserved.
+
+---
+
+**Built with ❤️ by Muneeb Arif**

@@ -17,6 +17,7 @@ build/
 # ML Models (large files)
 models/*.pkl
 models/*.joblib
+models/training_sample.csv
 
 # Data (large files)
 data/train.csv
